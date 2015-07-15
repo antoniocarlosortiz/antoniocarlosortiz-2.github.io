@@ -25,7 +25,7 @@ h5,
 h6 {
     margin: 0 0 35px;
     text-transform: uppercase;
-    font-family: "Noto Serif",Radiance,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Radiance,"Noto Serif",Radiance,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
 }
